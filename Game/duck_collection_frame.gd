@@ -2,7 +2,7 @@ extends Control
 var Duck_ID
 
 signal duck_selected
-@onready var show = $Info_display.visible
+@onready var Show = $Info_display.visible
 
 #Sets the duck that is displayed in it to load the accessories of the ID it is given
 func render_display(ID):
@@ -12,12 +12,12 @@ func render_display(ID):
 
 #Shows the plate above to change to wardrobe
 func display_duck_info():
-	if show == false:
+	if Show == false:
 		$Info_display.visible = true
-		show = true
-	elif show == true:
+		Show = true
+	elif Show == true:
 		$Info_display.visible = false
-		show = false
+		Show = false
 
 #Changes scene to the wardrobe with the duck that is displayed loaded
 func _on_wardrobe_button_pressed():

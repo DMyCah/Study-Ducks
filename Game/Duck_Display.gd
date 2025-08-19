@@ -147,7 +147,7 @@ func create_duck_save():
 		ID = Last_ID + 1
 		duck_dictionary.append(get_duck_data())
 	else:
-		print("No ducks yet")
+		print("New duck")
 		duck_dictionary.append(get_duck_data())
 
 #Generates a random body for the duck

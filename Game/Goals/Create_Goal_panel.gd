@@ -5,7 +5,7 @@ extends Control
 var goal_resource = preload("res://Game/Goals/goal.tscn")
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta):
+func _process(_delta):
 	#Stretches Create Panel so there is no otherflow out of the boundaries
 	self.size.y = $VBoxContainer.size.y + 70
 

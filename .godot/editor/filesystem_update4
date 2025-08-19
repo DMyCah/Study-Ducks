@@ -5,3 +5,6 @@ res://Game/game_shop_scene.tscn
 res://Game/Duck_Display.gd
 res://Game/game_shop_scene.gd
 res://Game/game_wardrobe_scene.tscn
+res://SaveManager.gd
+res://Game/duck_collection_frame.gd
+res://Game/Goals/Create_Goal_panel.gd

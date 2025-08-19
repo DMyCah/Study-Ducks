@@ -88,7 +88,6 @@ func login(username):
 		if content["username"] == username:
 			save_file = file
 			return true
-			break
 		file = saves_dir.get_next()
 	saves_dir.list_dir_end()
 	#No user found
@@ -106,7 +105,6 @@ func create_user(username):
 		if content["username"] == username:
 			print("User: ", username, "already taken")
 			return false
-			break
 		file = saves_dir.get_next()
 	saves_dir.list_dir_end()
 	#Username Valid
