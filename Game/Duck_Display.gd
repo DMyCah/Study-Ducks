@@ -4,7 +4,7 @@ extends CharacterBody2D
 var duck_dictionary = SaveManager.current_save_data["ducks"]
 
 #instances all variables
-var ID
+var ID = 1
 var Body
 var Headwear
 var Eyewear
@@ -147,6 +147,7 @@ func create_duck_save():
 		ID = Last_ID + 1
 		duck_dictionary.append(get_duck_data())
 	else:
+		print("No ducks yet")
 		duck_dictionary.append(get_duck_data())
 
 #Generates a random body for the duck

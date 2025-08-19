@@ -278,7 +278,6 @@ texture = ExtResource("28_invim")
 expand_mode = 1
 
 [node name="Payment_Panel" type="TextureRect" parent="."]
-visible = false
 layout_mode = 0
 offset_left = 805.0
 offset_top = 856.0

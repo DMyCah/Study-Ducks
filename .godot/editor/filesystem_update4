@@ -1,9 +1,7 @@
-res://Game/duck_base.tscn
-res://Timer/timer_scene.tscn
-res://Game/game_shop_scene.tscn
-res://Game/game_menu_bar.tscn
-res://Game/study_goals_panel.tscn
-res://Game/Goals/Create_Goal_panel.gd
-res://SaveManager.gd
+res://Login/login_scene.tscn
+res://global.tscn
 res://Game/Goals/goal.tscn
-res://Game/Goals/Goal.gd
+res://Game/game_shop_scene.tscn
+res://Game/Duck_Display.gd
+res://Game/game_shop_scene.gd
+res://Game/game_wardrobe_scene.tscn
