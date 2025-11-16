@@ -3,6 +3,9 @@
 If you are willing to and want to more easily view everything you can run the "project.godot" file in godot.
 Cannot download as exectuable due to issues so to run project needs to be ran through godot
 
+Video walkthrough of project: https://drive.google.com/file/d/1GSfG_HqXpH43Vd1Dj24Fk-u47IKDgdiF/view?usp=sharing
+
+
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
 The aim of the project is to create an app to encourage studying. Allows for goals to be set for studying by allocating a target study time for each goal. Incentivise to study by reward given when the amount of time is reached through the usage of a study timer. Reward of bread and worm currency to be used to purchase ducks for their duck collection and accessories to customise their ducks.
