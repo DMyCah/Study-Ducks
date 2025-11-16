@@ -1,6 +1,7 @@
-# Ass-Task-3
+# Study-Ducks
 .gd files are those with the code in them.
-If you are willing to and want to more easily view everything you can open this "Ass-Task-3" folder in godot.
+If you are willing to and want to more easily view everything you can run the "project.godot" file in godot.
+Cannot download as exectuable due to issues so to run project needs to be ran through godot
 
 ---------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------
