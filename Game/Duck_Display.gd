@@ -138,9 +138,11 @@ func get_duck_data():
 
 
 #Create a NEW duck save, setting ID if there is already ducks made, if not ID defaulted to 1
-#As any duck created will be created  with "set_data()" at ready() and then checked here
+#As any duck created will be created with "set_data()" at ready() and then checked here
 func create_duck_save():
 	generate_duck()
+	reset_duck_data()
+	print("/n", get_duck_data())
 	if duck_dictionary.size() > 0:
 		var last = duck_dictionary[duck_dictionary.size() - 1]
 		var Last_ID = last["ID"]
@@ -183,3 +185,13 @@ func set_data():
 	Name = "MyFirstDuck"
 	Experience = 0.0
 	Level = 1
+
+
+#Sets defualt data of duck
+func reset_duck_data():
+	Headwear = null
+	Eyewear = null
+	Neckwear = null
+	FullBodywear = null
+	Wingwear = null
+	Footwear = null

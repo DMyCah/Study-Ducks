@@ -1,20 +1,20 @@
-res://Game/Goals/goal.tscn::94c1b824b94599143c1d5906503ba3f4::1751471354::res://.godot/exported/133200997/export-d9e3cc6c27aa935a31a798d75dc43858-goal.scn
-res://Game/duck_base.tscn::c301a42d1036a629a372066d72f1b78f::1751499272::res://.godot/exported/133200997/export-a9496dc2f3d642a095ac3bfb1c1fa86a-duck_base.scn
+res://Game/Goals/goal.tscn::6c249fe66dd018a121d6c65b40e2bceb::1755565628::res://.godot/exported/133200997/export-d9e3cc6c27aa935a31a798d75dc43858-goal.scn
+res://Game/duck_base.tscn::c301a42d1036a629a372066d72f1b78f::1751528630::res://.godot/exported/133200997/export-a9496dc2f3d642a095ac3bfb1c1fa86a-duck_base.scn
 res://Game/game_collection_scene.tscn::82dd2fffdb1286948348c5291954236e::1751463473::res://.godot/exported/133200997/export-e0b9be154d35e0b37f698363c732e665-game_collection_scene.scn
 res://Game/game_inventory_scene.tscn::46ad468f29402595d79fc13032574073::1751471355::res://.godot/exported/133200997/export-e187c143e23cd4266c6bdd8913524996-game_inventory_scene.scn
-res://Game/game_menu_bar.tscn::d19c60feb5edf3b77eff7a603c870f62::1751471355::res://.godot/exported/133200997/export-1c642d8bfc29495d7f8e725a4b19b0d8-game_menu_bar.scn
-res://Game/game_shop_scene.tscn::9a91f4fe4ddf98c684db5aac889cbc9d::1751471355::res://.godot/exported/133200997/export-25be081524f6bdd22a47745bf26c637a-game_shop_scene.scn
-res://Game/game_wardrobe_scene.tscn::25b033f993894f8494407e8ab2aa9a8e::1751461051::res://.godot/exported/133200997/export-9fb7d3d4a1451ac6d0942451ed5cd7e3-game_wardrobe_scene.scn
-res://Game/study_goals_panel.tscn::1db6219ca92646262a8515375d0e4178::1751473839::res://.godot/exported/133200997/export-42fc3e686367887d4302e2077f09b571-study_goals_panel.scn
-res://Login/login_scene.tscn::6a55535e3f81107ac83ed259f95e3f1c::1751471354::res://.godot/exported/133200997/export-b90e2e365c05101ffbdb83bf5c9352f6-login_scene.scn
+res://Game/game_menu_bar.tscn::d19c60feb5edf3b77eff7a603c870f62::1751528630::res://.godot/exported/133200997/export-1c642d8bfc29495d7f8e725a4b19b0d8-game_menu_bar.scn
+res://Game/game_shop_scene.tscn::e80b6758fcb666ac8fd518fbd662d43c::1755565629::res://.godot/exported/133200997/export-25be081524f6bdd22a47745bf26c637a-game_shop_scene.scn
+res://Game/game_wardrobe_scene.tscn::25b033f993894f8494407e8ab2aa9a8e::1755565629::res://.godot/exported/133200997/export-9fb7d3d4a1451ac6d0942451ed5cd7e3-game_wardrobe_scene.scn
+res://Game/study_goals_panel.tscn::1f1066088aed221eb7fc145a988ea2f7::1751528630::res://.godot/exported/133200997/export-42fc3e686367887d4302e2077f09b571-study_goals_panel.scn
+res://Login/login_scene.tscn::6a55535e3f81107ac83ed259f95e3f1c::1755565628::res://.godot/exported/133200997/export-b90e2e365c05101ffbdb83bf5c9352f6-login_scene.scn
 res://Main Menu/main_menu_scene.tscn::c4d9a9dc0e5a6609a700481f72612510::1751471355::res://.godot/exported/133200997/export-fda0b3ed2f0d864b426bbad10aa41156-main_menu_scene.scn
 res://Main Menu/main_menu_ui.tscn::b1ef59cb6e9344026cd0439756bef527::1751471355::res://.godot/exported/133200997/export-48f0b15650e6c67e15d1c173b8a385a6-main_menu_ui.scn
 res://Setting/end_confirm_node.tscn::44b8af7903e43b5282a76c213e0c9926::1751285012::res://.godot/exported/133200997/export-86dc4e2d730b2240dfe3feb1bc1ac703-end_confirm_node.scn
 res://Setting/settings_scene.tscn::4c14aaca746e321bf0aee4f0adaf9073::1751472285::res://.godot/exported/133200997/export-439c20d2da7955fab3d0d0a5a5c523fe-settings_scene.scn
 res://Timer/Timer Settings/time_slots.tscn::403d088f46e9570df438ef99ae0b30d7::1751471354::res://.godot/exported/133200997/export-9361a56fec5f98b0f80bef6e634aa8e1-time_slots.scn
-res://Timer/timer_scene.tscn::f25f331eca2d9bb0adec61fc41d4429b::1751499272::res://.godot/exported/133200997/export-60ebc8eb5c59393d7bd4e68c0fdfc7a3-timer_scene.scn
+res://Timer/timer_scene.tscn::430039f842ab138442bb547a6d4314e0::1751528630::res://.godot/exported/133200997/export-60ebc8eb5c59393d7bd4e68c0fdfc7a3-timer_scene.scn
 res://UI/scene_changer.tscn::4b41644550f26538bd43696d9c04c282::1751438500::res://.godot/exported/133200997/export-a57b2292d2ebed0a6d013163c6436f8f-scene_changer.scn
-res://global.tscn::8a903815323422df5a2dce937b916c36::1751473015::res://.godot/exported/133200997/export-cf8532bc06c1243e731119a1dc90fa78-global.scn
+res://global.tscn::8a903815323422df5a2dce937b916c36::1755565628::res://.godot/exported/133200997/export-cf8532bc06c1243e731119a1dc90fa78-global.scn
 res://Game/accessory_frame.tscn::20163e092abf9ec80e29f36cf0c89a88::1751461051::res://.godot/exported/133200997/export-34fe81c2f1facacf5f62992a4b94e3c6-accessory_frame.scn
 res://Game/duck_collection_frame.tscn::cf87bd0c737aa754599b041d09eb3703::1751471355::res://.godot/exported/133200997/export-cff50b91ec3b8a0f747e8d42c9f04209-duck_collection_frame.scn
 res://Game/duck_display_frame.tscn::c00f99d07b4057577db857c9133cbc7a::1751471355::res://.godot/exported/133200997/export-eb6e14a03d6dfd0058c401dd2b2e448d-duck_display_frame.scn

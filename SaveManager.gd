@@ -12,8 +12,8 @@ var default_save_data = {
 		"goals":[
 			
 		],
-		"money":500,
-		"food":2000,
+		"money":10000,
+		"food":50000,
 		"items_owned":[
 			
 		]
